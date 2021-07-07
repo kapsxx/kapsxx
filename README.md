@@ -1,5 +1,7 @@
 ### Hi, I'm Kapil 👋
 
+I am an aspiring web developer with robust component based developing skills. I'm proficient in working with teams and building interactive web applications. Strongly interested in obtaining a developer position to work on enhancing product experience.
+
 <!--
 **kapsxx/kapsxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
