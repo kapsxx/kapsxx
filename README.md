@@ -1,6 +1,6 @@
 ### Hi, I'm Kapil 👋👨‍💻
 
-I am an aspiring web developer with robust component based developing skills. I'm proficient in working with teams and building interactive web applications. Strongly interested in obtaining a developer position to work on enhancing product experience.
+I am an aspiring full stack web developer with robust component based developing skills. I'm proficient in working with teams and building interactive web applications. Strongly interested in obtaining a developer position to work on enhancing product experience.
 
 ### Find me around the web 🌎
 * I often write blogs on <a href="https://kapilpant.medium.com/">Medium</a>
