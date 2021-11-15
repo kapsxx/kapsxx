@@ -2,7 +2,9 @@
 
 I am an aspiring full stack web developer with robust component based developing skills. I'm proficient in working with teams and building interactive web applications. Strongly interested in obtaining a developer position to work on enhancing product experience.
 
-[![Kapil's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapsxx&show_icons=true&theme=radical)](https://github.com/kapsxx/github-readme-stats)
+[![Kapil's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapsxx&show_icons=true&theme=radical&count_private=true)](https://github.com/kapsxx/github-readme-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapsxx)](https://github.com/kapsxx/github-readme-stats) -->
 
 ### Find me around the web 🌎
 * I often write blogs on <a href="https://kapilpant.medium.com/">Medium</a>
