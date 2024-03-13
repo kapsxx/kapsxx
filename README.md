@@ -1,6 +1,6 @@
 ### Hi, I'm Kapil 👋👨‍💻
 
-I am an aspiring full stack web developer with robust component based developing skills. I'm proficient in working with teams and building interactive web applications. Strongly interested in obtaining a developer position to work on enhancing product experience.
+With around 3 years of practical experience, effective spearheading of software development projects has yielded tangible outcomes. Specializing in front-end development, expertise is utilized to enhance user experience, thereby boosting engagement and satisfaction. The history involves deploying solutions that increased efficiency by 20% and reduced time-to-market by 24%. Furthermore, collaboration with teams of 8-10 members showcases strong leadership and fosters a culture of excellence. Dedication to innovation and precision ensures consistent delivery of top-notch software solutions. Commitment to upholding this successful track record remains firm, leveraging skills and expertise to contribute significantly to software development.
 
 <br/>
 
