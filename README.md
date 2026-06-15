@@ -4,6 +4,17 @@ Frontend Engineer with 4+ years of experience building scalable React applicatio
 
 <br/>
 
+### SKILLS
+React.js, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Redux, Redux Toolkit, Zustand, React-Query, GraphQL, REST APIs, Micro-Frontends, Component-driven Architecture, Frontend Performance Optimization, Core Web Vitals, Lazy Loading, Memoization, Virtualization, Responsive Design, Accessibility (a11y), Webpack, Vite, CI/CD (Frontend), Unit/Integration Testing, OAuth2, JWT, Frontend Security, AI-assisted Development (Claude Code, ChatGPT, Copilot), Leadership & Mentoring, Product Collaboration, AWS (Basics), Docker (Basics), Figma
+
+<br/>
+
+### ACHIEVEMENTS
+Achieved a remarkable 70% reduction in company’s costs during a quarter through the strategic implementation
+of MSAT. This accomplishment earned commendation for the team during a town hall meeting.
+
+<br/>
+
  ### Find me around the web 🌎
 * I often write blogs on <a href="https://kapilpant.medium.com/">Medium</a>
 * Socially active on <a href="https://in.linkedin.com/in/kapsxx">LinkedIn</a>
