@@ -1,6 +1,6 @@
 ### Hi, I'm Kapil 👋👨‍💻
 
-With around 3 years of practical experience, effective spearheading of software development projects has yielded tangible outcomes. Specializing in front-end development, expertise is utilized to enhance user experience, thereby boosting engagement and satisfaction. The history involves deploying solutions that increased efficiency by 20% and reduced time-to-market by 24%. Furthermore, collaboration with teams of 8-10 members showcases strong leadership and fosters a culture of excellence. Dedication to innovation and precision ensures consistent delivery of top-notch software solutions. Commitment to upholding this successful track record remains firm, leveraging skills and expertise to contribute significantly to software development.
+Frontend Engineer with 4+ years of experience building scalable React applications for enterprise systems. Proficient in React.js, TypeScript, and modern frontend architecture, including reusable component systems, micro frontends, and performance optimization. Experienced in leading projects, mentoring engineers, and adopting AI-enabled development practices. Focused on building secure, accessible, and high-performance user interfaces.
 
 <br/>
 
